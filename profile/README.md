@@ -5,7 +5,7 @@
 <p align="center"><b>K3ai</b> is a lightweight tool to get an AI Infrastructure Stack up in minutes not days.</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-v1.0-blue?style=for-the-badge&logo=none" alt="cli version" /></a>&nbsp;
+<img src="https://img.shields.io/badge/version-v1.0.1-blue?style=for-the-badge&logo=none" alt="cli version" /></a>&nbsp;
 <img src="https://img.shields.io/badge/Go-1.14+-00ADD8?style=for-the-badge&logo=go" alt="go version" /></a>&nbsp;
 <a href="https://goreportcard.com/report/github.com/k3ai/k3ai" target="_blank"><img src="https://img.shields.io/badge/Go_report-A+-success?style=for-the-badge&logo=none" alt="go report" /></a>&nbsp;
 <img src="https://img.shields.io/github/license/k3ai/k3ai?style=for-the-badge" alt="license" />&nbsp;
