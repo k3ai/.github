@@ -13,6 +13,8 @@
 </p>
 
 ---
+### K3ai has been an amazing journey but as evert journey it came to an end. We have no time to keep mantain these repo but you are welcome to come and keep using our code. Thanks for the amazing support!
+
 **NOTE on the K3ai origins**
 
 Original K3ai Project has been developed at the end of October 2020 in 2 weeks by:
